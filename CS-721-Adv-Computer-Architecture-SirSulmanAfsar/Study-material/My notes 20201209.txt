@@ -1,0 +1,27 @@
+
+
+>>>>Role of Compiler............................
+A compiler is a special program that processes statements written in a particular programming
+ language and turns them into machine language or
+ "code" that a computer's processor uses. Typically, a programmer writes language statements in a
+ language such as Pascal or C one line at a time using an editor.
+ The file that is created contains what are called the source statements.
+ The programmer then runs the appropriate language compiler,
+ specifying the name of the file that contains the source statements.
+...........................................................
+
+>>>>Impact of Compiler Technology...........................
+The need and desire to build compilers exerts pressure on the design and implementation of other parts of our computer systems.
+ For example, consider some of the effects on language design:
+
+We sometimes design languages so that they are easier to compile. This choice made more sense in the old days, when we understood
+ less about how to write a compiler. These days, we should think of programmers first whenever practical.
+The maturity of compiler technology makes it feasible for us to program on many platforms -- any platform with a processor.
+Open-source compilers make languages open to extension and other language-processing tools more feasible to build.
+Or on computer design:
+
+designing computer systems aimed at a particular language (for example, the Lisp machine)
+designing chips to support embedded programs
+creating new kinds of architectures, such as RISC, with simpler and more uniform instruction sets, which simplify code generation
+.................................................................
+
